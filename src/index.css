@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-teal-500: #14b8a6;
+  --color-indigo-500: #6366f1;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #020617; /* Slate 950 */
+  color: #f8fafc; /* Slate 50 */
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
